@@ -7,7 +7,7 @@ use yii\grid\GridView;
 /* @var $searchModel app\models\UnitRegionBankSearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
 
-$this->title = 'Unit Region Banks';
+$this->title = 'Unit Region Bank';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="unit-region-bank-index">

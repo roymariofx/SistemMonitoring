@@ -7,7 +7,7 @@ use yii\grid\GridView;
 /* @var $searchModel app\models\TabunganNasabahSearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
 
-$this->title = 'Tabungan Nasabahs';
+$this->title = 'Tabungan Nasabah';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="tabungan-nasabah-index">
